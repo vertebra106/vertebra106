@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm vertebra106
 
-<!--
-**vertebra106/vertebra106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Software Engineering student learning programming, computer science fundamentals, and practical software development.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++ programming and data structures
+- Python tools and small automation scripts
+- JavaScript, HTML, and CSS basics
+- Git, GitHub, and Linux workflow
+- Simple AI API applications
+
+## Learning Projects
+
+- `my-first-github-project`: my first GitHub repository
+- `git-learning-notes`: notes about Git and GitHub workflow
+- `python-cli-toolbox`: small command line tools in Python
+- `cpp-data-structures-lab`: basic data structures implemented in C++
+- `js-mini-web-apps`: small frontend practice projects
+
+## Goal
+
+This profile records my learning process through small, readable, and maintainable projects.
+
