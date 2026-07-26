@@ -5,20 +5,18 @@ I'm a first-year Software Engineering student learning programming, computer sci
 ## Current Focus
 
 - C++ programming and data structures
-- Python tools and small automation scripts
-- JavaScript, HTML, and CSS basics
-- Git, GitHub, and Linux workflow
-- Simple AI API applications
+- HTML, CSS, and JavaScript web development
+- Python fundamentals and small programs
+- Git and GitHub workflow
+- Building practical projects from idea to completion
 
-## Learning Projects
+## Featured Projects
 
-- `my-first-github-project`: my first GitHub repository
-- `git-learning-notes`: notes about Git and GitHub workflow
-- `python-cli-toolbox`: small command line tools in Python
-- `cpp-data-structures-lab`: basic data structures implemented in C++
-- `js-mini-web-apps`: small frontend practice projects
+- [Task Manager](https://github.com/vertebra106/task-manager): a student-focused web app for creating, editing, completing, and organizing daily tasks
+- [Campus Package Pickup Management System](https://github.com/vertebra106/internship-pickup-management-system): a C++ internship project with console and MFC GUI versions
+- [Frontend Foundation Lab](https://github.com/vertebra106/frontend-foundation-lab): responsive web projects for practicing HTML, CSS, and JavaScript
+- [My First GitHub Project](https://github.com/vertebra106/my-first-github-project): a small Python greeting program and my first GitHub repository
 
 ## Goal
 
-This profile records my learning process through small, readable, and maintainable projects.
-
+I use this profile to document my learning journey and turn new programming concepts into practical, maintainable projects.
